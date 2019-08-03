@@ -1,0 +1,19 @@
+.viewport {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.container {
+  height:50vh;
+  width: 50vh;
+  display: grid;
+  border: solid black;
+  margin: 1rem;
+}
+
+.box {
+  border: solid black 1px;
+}
